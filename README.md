@@ -2,7 +2,7 @@
 
 Здесь собраны ссылки на мои проекты:
 
-- [Проект 1](https://github.com/lyessado/D01_Linux/blob/main/src/report.md)
+- [Проект 1](https://github.com/lyessado/DO/tree/DO1_Linux/src/report.md)
 - [Проект 2](https://github.com/ТВОЙ_ГИТХАБ/проект2)
 - [Проект 3](https://github.com/ТВОЙ_ГИТХАБ/проект3)
 
